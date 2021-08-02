@@ -1,12 +1,7 @@
-### Olá, Seja Bem-Vindo ao meu Github aqui você vai encontrar meus projetos de Análise de Dados, Machine Learning, IA ... 
-
-
 **Me Siga nas minhas redes atráves desses links clicaveis:**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaiosod/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](<https://medium.com/@kaiosod>)  
 
-
-Atualmente estudo Engenharia de Controle e Automação, tenho interesse por Desenvolvimento e é onde hoje mantenho meu foco.
 
 
 ## **Linguagens**
