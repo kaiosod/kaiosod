@@ -1,8 +1,10 @@
 <div>
   <a href="https://github.com/kaiosod">
-  <img width='290' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosod&layout=compact&langs_count=7&theme=merko"/>
-  <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiosod&theme=dracula" />
+  <img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosod&theme=dracula" />
+  <img width='700' src="https://github-readme-stats.vercel.app/api?username=kaiosod&theme=dracula" />
+  
 </div>
+<img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiosod&theme=dracula" />
 
  
  
