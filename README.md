@@ -4,7 +4,7 @@
   <img width='550' src="https://github-readme-stats.vercel.app/api?username=kaiosod&theme=dracula" />
   
 </div>
-<img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiosod&theme=dracula" />
+<img width='796' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiosod&theme=dracula" />
 
  
  
