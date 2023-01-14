@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/kaiosod">
-  <img width='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosod&theme=dracula" />
+  <img width='228' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosod&theme=dracula" />
   <img width='550' src="https://github-readme-stats.vercel.app/api?username=kaiosod&theme=dracula" />
   
 </div>
