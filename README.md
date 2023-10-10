@@ -5,9 +5,9 @@
 
 ## I am Kaio
 
-- 👩‍💻 Feature Engineer 
-- 🎓 Computer Engineering Student
-- 💡 Love to make things
+- Feature Engineer 
+- Computer Engineering Student
+- Love to make things
 
 
 
