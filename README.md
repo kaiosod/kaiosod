@@ -10,7 +10,7 @@
 &nbsp;
 
 - 🚗 Feature Systems Engineer at @Ford.
-- 💻 Computer Engineering Student.
+- 💻 Computer Engineering.
 - 💡 Love diving into Tech Challenges.
 - ⚙️ Do it Yourself(DIY) Culture.
 
